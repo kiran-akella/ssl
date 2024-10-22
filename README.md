@@ -1,7 +1,5 @@
 # How to create a valid self signed SSL Certificate?
 
-**Skills:** Medium - Advanced
-**Prerequisites:** none
 
 ## Self-Signed Certificates
 
